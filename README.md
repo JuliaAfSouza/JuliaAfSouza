@@ -4,8 +4,8 @@
 [<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:juliafonsodesouza@gmail.com) 
 
 - 💻 Analista de dados e BI
-- 🎓 Estudante de Sistemas de informações, atualmente no 7º Semestre
-- 💼 Trabalho na [Aiko](https://aiko.digital/) como **Analista Business Intelligence I**
+- 🎓 Formada em Sistemas de Informação
+- 💼 Trabalho na [Aiko](https://aiko.digital/) como **Analista Business Intelligence**
 - 🔍 Estou sempre em busca de novos desafios que me permitam crescer profissionalmente
 
 <div style="display: inline_block"><br>
